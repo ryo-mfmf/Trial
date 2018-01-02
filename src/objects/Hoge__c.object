@@ -51,16 +51,6 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>TEST__c</fullName>
-        <externalId>false</externalId>
-        <label>TEST</label>
-        <length>64</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
     <label>ホゲ</label>
     <nameField>
         <displayFormat>H-{0000}</displayFormat>

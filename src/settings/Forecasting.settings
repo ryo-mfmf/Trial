@@ -226,23 +226,23 @@
             <label>最終更新日</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abu</field>
+            <field>00N7F00000CnuLT</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abv</field>
+            <field>00N7F00000CnuLU</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abw</field>
+            <field>00N7F00000CnuLV</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abx</field>
+            <field>00N7F00000CnuLW</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Aby</field>
+            <field>00N7F00000CnuLX</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -279,11 +279,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7F00000D7Abu</field>
-            <field>00N7F00000D7Abv</field>
-            <field>00N7F00000D7Abw</field>
-            <field>00N7F00000D7Abx</field>
-            <field>00N7F00000D7Aby</field>
+            <field>00N7F00000CnuLT</field>
+            <field>00N7F00000CnuLU</field>
+            <field>00N7F00000CnuLV</field>
+            <field>00N7F00000CnuLW</field>
+            <field>00N7F00000CnuLX</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -438,23 +438,23 @@
             <label>最終更新日</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abu</field>
+            <field>00N7F00000CnuLT</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abv</field>
+            <field>00N7F00000CnuLU</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abw</field>
+            <field>00N7F00000CnuLV</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abx</field>
+            <field>00N7F00000CnuLW</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Aby</field>
+            <field>00N7F00000CnuLX</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -491,11 +491,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7F00000D7Abu</field>
-            <field>00N7F00000D7Abv</field>
-            <field>00N7F00000D7Abw</field>
-            <field>00N7F00000D7Abx</field>
-            <field>00N7F00000D7Aby</field>
+            <field>00N7F00000CnuLT</field>
+            <field>00N7F00000CnuLU</field>
+            <field>00N7F00000CnuLV</field>
+            <field>00N7F00000CnuLW</field>
+            <field>00N7F00000CnuLX</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -650,23 +650,23 @@
             <label>最終更新日</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abu</field>
+            <field>00N7F00000CnuLT</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abv</field>
+            <field>00N7F00000CnuLU</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abw</field>
+            <field>00N7F00000CnuLV</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abx</field>
+            <field>00N7F00000CnuLW</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Aby</field>
+            <field>00N7F00000CnuLX</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -703,11 +703,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7F00000D7Abu</field>
-            <field>00N7F00000D7Abv</field>
-            <field>00N7F00000D7Abw</field>
-            <field>00N7F00000D7Abx</field>
-            <field>00N7F00000D7Aby</field>
+            <field>00N7F00000CnuLT</field>
+            <field>00N7F00000CnuLU</field>
+            <field>00N7F00000CnuLV</field>
+            <field>00N7F00000CnuLW</field>
+            <field>00N7F00000CnuLX</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -862,23 +862,23 @@
             <label>最終更新日</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abu</field>
+            <field>00N7F00000CnuLT</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abv</field>
+            <field>00N7F00000CnuLU</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abw</field>
+            <field>00N7F00000CnuLV</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Abx</field>
+            <field>00N7F00000CnuLW</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7F00000D7Aby</field>
+            <field>00N7F00000CnuLX</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -915,11 +915,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7F00000D7Abu</field>
-            <field>00N7F00000D7Abv</field>
-            <field>00N7F00000D7Abw</field>
-            <field>00N7F00000D7Abx</field>
-            <field>00N7F00000D7Aby</field>
+            <field>00N7F00000CnuLT</field>
+            <field>00N7F00000CnuLU</field>
+            <field>00N7F00000CnuLV</field>
+            <field>00N7F00000CnuLW</field>
+            <field>00N7F00000CnuLX</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
