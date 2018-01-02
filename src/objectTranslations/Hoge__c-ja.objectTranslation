@@ -4,4 +4,8 @@
         <plural>false</plural>
         <value>ホゲ</value>
     </caseValues>
+    <fields>
+        <label><!-- TEST --></label>
+        <name>TEST__c</name>
+    </fields>
 </CustomObjectTranslation>

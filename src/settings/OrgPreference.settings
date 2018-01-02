@@ -22,7 +22,7 @@
     </preferences>
     <preferences>
         <settingName>SocialProfilesEnable</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>XssProtection</settingName>
