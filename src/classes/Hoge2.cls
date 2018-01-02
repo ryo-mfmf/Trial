@@ -1,3 +1,4 @@
 public class Hoge2 {
-    private String aaa;
+    private String aaa = "1";
+
 }
